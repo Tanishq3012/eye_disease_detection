@@ -44,7 +44,7 @@ A Flask-based web application is integrated with the trained model. Users can up
 To set up the project locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/eye-disease-detection.git
+   git clone https://github.com/Tanishq3012/eye_disease_detection.git
    cd eye-disease-detection
 2. Create a virtual environment and activate it:
    ```sh
